@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Doughnuts</title>
+    <link rel="stylesheet" type="text/css" href="HomeCakeCss.css">
+</head>
+<body>
+    <div class="d1">
+        <a href="Home.html"><img src="Homeimg.jpg" class="i6"></a>
+        <p class="p1">Doughnuts</p>
+    </div>
+    <div>
+        <p class="p2">We offer a wide range of bespoke,personalized celebration cakes and cupcakes for a variety of occasions. Our cakes range from buttercream and drip style cake to tiered novelty cakes.</p>
+    </div>
+    <hr>
+    <div class="d12">
+         <div class="d13">
+            <img src="dn1.png" class="i3">
+            <p class="p11">Glazed Pumpkin Doughnut</p>
+            <hr class="hr1">
+            <p class="p13">Earliest delivery: <span class="sp1">Today</span></p>
+            <p class="p17">₹ 99</p>
+            <p class="p17">₹ <del>699</del> 70% off</p>
+            <p class="p18">Reviews:<img src="strs4.png" class="i5"></p>
+            <button class="atc">Add to Cart</button>
+            <button class="by">Buy</button>
+        </div>
+        <div class="d13">
+            <img src="dn2.png" class="i3">
+            <p class="p11">Glazed Yeast Doughnut</p>
+            <hr class="hr1">
+            <p class="p13">Earliest delivery: <span class="sp1">Today</span></p>
+            <p class="p17">₹ 99</p>
+            <p class="p17">₹ <del>699</del> 70% off</p>
+            <p class="p18">Reviews:<img src="strs3.png" class="i5"></p>
+            <button class="atc">Add to Cart</button>
+            <button class="by">Buy</button>
+        </div>
+        <div class="d13">
+            <img src="dn3.png" class="i3">
+            <p class="p11">Jelly Doughnut</p>
+            <hr class="hr1">
+            <p class="p13">Earliest delivery: <span class="sp1">Tomorrow</span></p>
+            <p class="p17">₹ 99</p>
+            <p class="p17">₹ <del>699</del> 70% off</p>
+            <p class="p18">Reviews:<img src="strs35.png" class="i5"></p>
+            <button class="atc">Add to Cart</button>
+            <button class="by">Buy</button>
+        </div>
+        <div class="d13">
+            <img src="dn5.jpg" class="i3">
+            <p class="p11">Boston Cream Doughnut</p>
+            <hr class="hr1">
+            <p class="p13">Earliest delivery: <span class="sp1">Today</span></p>
+            <p class="p17">₹ 99</p>
+            <p class="p17">₹ <del>699</del> 70% off</p>
+            <p class="p18">Reviews:<img src="strs4.png" class="i5"></p>
+        <button class="atc">Add to Cart</button>
+            <button class="by">Buy</button>
+        </div>
+    </div><br>
+    <div class="d12">
+        <div class="d13">
+            <img src="dn4.jpg" class="i3">
+            <p class="p11">Cake Doughnut</p>
+            <hr class="hr1">
+            <p class="p13">Earliest delivery: <span class="sp1">Tomorrow</span></p>
+            <p class="p17">₹ 99</p>
+            <p class="p17">₹ <del>699</del> 70% off</p>
+            <p class="p18">Reviews:<img src="strs3.png" class="i5"></p>
+            <button class="atc">Add to Cart</button>
+            <button class="by">Buy</button>
+        </div>
+        
+        <div class="d13">
+            <img src="dn6.jpg" class="i3">
+            <p class="p11">Cider Doughnut</p>
+            <hr class="hr1">
+            <p class="p13">Earliest delivery: <span class="sp1">Today</span></p>
+            <p class="p17">₹ 99</p>
+            <p class="p17">₹ <del>699</del> 70% off</p>
+            <p class="p18">Reviews:<img src="strs3.png" class="i5"></p>
+            <button class="atc">Add to Cart</button>
+            <button class="by">Buy</button>
+        </div>
+        <div class="d13">
+            <img src="dn7.png" class="i3">
+            <p class="p11">Blueberry Doughnut</p>
+            <hr class="hr1">
+            <p class="p13">Earliest delivery: <span class="sp1">Today</span></p>
+            <p class="p17">₹ 99</p>
+            <p class="p17">₹ <del>699</del> 70% off</p>
+            <p class="p18">Reviews:<img src="strs4.png" class="i5"></p>
+            <button class="atc">Add to Cart</button>
+            <button class="by">Buy</button>
+        </div>
+    </div><br>
+    
+</body>
+</html>
